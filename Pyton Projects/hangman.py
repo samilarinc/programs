@@ -15,7 +15,7 @@ def graphMaker(counter):
     elif counter == 6:
         print("\n__________\n|        |\n|        O\n|        |\n|       /|\\ \n|        |\n|       / \\ \n")
 
-WL = open("system.dll" , "r")
+WL = open("words.txt" , "r")
 NOL = 0
 totLetters = ''
 i = 0
